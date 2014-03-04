@@ -1,3 +1,7 @@
+h2. Why fork?
+
+This gem hasn't been maintained for 5 years at time of fork.  Want to use try_sudo instead of sudo for executing god.
+
 h2. Description
 
 Want "Capistrano":http://capify.org/ to talk to "God":http://god.rubyforge.org/? Find "San Juan":http://maps.google.com/maps?client=safari&ie=UTF8&oe=UTF-8&q=San+Juan+Capistrano,+CA,+USA&ll=33.495598,-117.665291&spn=0.020113,0.037851&t=h&z=15
